@@ -1,3 +1,20 @@
 name: Vikrant More
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+gems:
+  - jekyll-redirect-from
+
+
+
+  <!DOCTYPE html>
+<html>
+<head>
+   <!-- HTML meta refresh URL redirection -->
+   <meta http-equiv="refresh"
+   content="0; url=http://vikrantvm.github.io/">
+</head>
+<body>
+   <p>The page has moved to:
+   <a href="http://vikrantvm.github.io/">this page</a></p>
+</body>
+</html>
