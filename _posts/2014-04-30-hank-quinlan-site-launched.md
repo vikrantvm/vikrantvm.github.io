@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "Vikrant finally got his site up"
+date: 2015-10-05
 ---
 
 Well. Finally got around to putting my personal page together. Its' neat, powered by Jekyll, GitHub Pages and I can use markdown! Joy :)
