@@ -4,4 +4,7 @@ permalink: /blog/:year/:month/:day/:title
 gems:
   - jekyll-redirect-from
 
+plugins:
+  - jekyll-seo-tag
+
 theme: jekyll-theme-minimal
